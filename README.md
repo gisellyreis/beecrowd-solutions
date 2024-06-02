@@ -12,5 +12,5 @@ This repository contains my solutions to various problems from Beecrowd (formerl
 
 | Problem ID                                                | Title             | Language(s)       |
 |-----------------------------------------------------------|-------------------|-------------------|
-| [1001](Python/1001-extremely-basic.py)   | Extremely Basic   | [Java](Java/1001-extremely-basic.java), [C++](C++/1001-extremely-basic.cpp) |
+| [1001](Python/1001-extremely-basic.py)   | Extremely Basic   | [Java](Java/1001-extremely-basic.java), [Python](Python/1001-extremely-basic.py) |
 | ...        | ...               | ...               |
