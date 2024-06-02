@@ -7,3 +7,10 @@ This repository contains my solutions to various problems from Beecrowd (formerl
 - Each problem is stored in a separate file named after its problem ID and title.
 - Solutions include comments explaining the logic and approach used.
 
+
+## Problems Solved
+
+| Problem ID                                                | Title             | Language(s)       |
+|-----------------------------------------------------------|-------------------|-------------------|
+| [1001](Python/1001-extremely-basic.py)   | Extremely Basic   | [Java](Java/1001-extremely-basic.java), [C++](C++/1001-extremely-basic.cpp) |
+| ...        | ...               | ...               |
