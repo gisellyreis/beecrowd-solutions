@@ -1,13 +1,14 @@
 
-# Problem ID: 1001
-# Title: Extremely Basic
-# Link: https://www.beecrowd.com.br/judge/en/problems/view/1001
+// Problem ID: 1001
+// Title: Extremely Basic
+// Link: https://www.beecrowd.com.br/judge/en/problems/view/1001
 
-'''
+/*
 Description: 
 Read 2 variables, named A and B and make the sum of these two variables, assigning its result to the variable X. 
 Print X as shown below. Print endline after the result otherwise you will get “Presentation Error”.
-'''
+*/
+
 
 #include <iostream>
 
