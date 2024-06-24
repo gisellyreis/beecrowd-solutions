@@ -21,4 +21,11 @@ This repository contains my solutions to various problems from Beecrowd (formerl
 | [1007](C++/1007-difference.cpp)          | Difference        | [Java](), [Python](), [C/C++](C++/1007-difference.cpp)        |
 | [1008](C++/1008-salary.cpp)              | Salary            | [Java](), [Python](), [C/C++](C++/1008-salary.cpp)            |
 | [1009](C++/1009-salary-with-bonus.cpp)   | Salary with Bonus | [Java](), [Python](), [C/C++](C++/1009-salary-with-bonus.cpp) |
+| [1012](C++/1012-area.cpp)                | Area              | [Java](), [Python](), [C/C++](C++/1012-area.cpp)              |
+| [1014](C++/1014-consumption.cpp)         | Consumption       | [Java](), [Python](), [C/C++](C++/1014-consumption.cpp)       |
+| [1015](C++/1015-distance-between-two-points.cpp) | Distance Between Two Points | [Java](), [Python](), [C/C++](C++/1015-distance-between-two-points.cpp) |
+| [1018](C++/1018-banknotes.cpp)           | Banknotes       | [Java](), [Python](), [C/C++](C++/1018-banknotes.cpp)           |
+| [1019](C++/1019-time-conversion.cpp)     | Time Conversion   | [Java](), [Python](), [C/C++](C++/1019-time-conversion.cpp)   |
+| [1020](C++/1020-age-in-days.cpp)         | Age in Days       | [Java](), [Python](), [C/C++](C++/1020-age-in-days.cpp)       |
+| [1021](C++/1021-banknotes-and-coins.cpp) | Banknotes and Coins | [Java](), [Python](), [C/C++](C++/1021-banknotes-and-coins.cpp)  |
 | ...        | ...               | ...               |
